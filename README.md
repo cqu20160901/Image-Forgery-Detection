@@ -6,4 +6,4 @@
 
 * Our model can detect forged images with high accuracy of 97.11\%, which outperforms conventional methods even current data-driven methods.
 
-* At the present, I just upload our [report](https://github.com/AntiAegis/Image-Forgery-Detection/blob/master/Report.pdf) in the university and [draft of paper](https://github.com/AntiAegis/Image-Forgery-Detection/blob/master/thuync2018.pdf). In the near future, code will be uploaded.
+* At the present, I just upload our [draft of paper](https://github.com/AntiAegis/Image-Forgery-Detection/blob/master/thuync2018.pdf). In the near future, code will be uploaded.
